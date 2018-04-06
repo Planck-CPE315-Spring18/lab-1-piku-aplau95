@@ -22,6 +22,7 @@ Complete
 ### Compilation and execution instructions
 
 gcc -o piku piku.s
+
 ./piku
 
 These README files have a fairly rich _Markdown_ environment. You should use
