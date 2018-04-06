@@ -11,15 +11,15 @@
   * `./piku`
 * Issues that you encountered along the way, and anything you have questions about.
 
-###Name
+### Name
 
 Andrew Lau (Andy)
 
-###Status of Lab
+### Status of Lab
 
 Complete
 
-###Compilation and execution instructions
+### Compilation and execution instructions
 
 gcc -o piku piku.s
 ./piku
